@@ -7,3 +7,5 @@ https://d1ng0.github.io/Genetic-Algorithm/
 
 In this example you see a genetic algorithm which learns how to reach the target. Each generation becomes aware of where to reach. 
 You can draw obstacles on the screen by clicking and dragging the pointer.
+
+My work and study is based on ShiftMan and his awesome learning material "Nature of Code" http://natureofcode.com
