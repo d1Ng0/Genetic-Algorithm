@@ -1,4 +1,4 @@
 
 = Genetic Algorithm example by TrainCode
-
+Open the example in a new window:
 https://d1ng0.github.io/Genetic-Algorithm/
