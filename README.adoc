@@ -3,4 +3,4 @@
 
 Open the example in a new window:
 
-link::https://d1ng0.github.io/Genetic-Algorithm/
+https://d1ng0.github.io/Genetic-Algorithm/
