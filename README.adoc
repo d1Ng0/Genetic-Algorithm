@@ -1,5 +1,5 @@
 
-= Genetic Algorithm example by TrainCode
+= Genetic Algorithm by TrainCode
 
 Open the example in a new window:
 
