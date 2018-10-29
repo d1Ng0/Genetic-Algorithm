@@ -4,3 +4,6 @@
 Open the example in a new window:
 
 https://d1ng0.github.io/Genetic-Algorithm/
+
+In this example you see a genetic algorithm which learns how to reach the target. Each generation becomes aware of where to reach. 
+You can draw obstacles on the screen by clicking and dragging the pointer.
